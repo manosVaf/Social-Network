@@ -1,0 +1,7 @@
+Manos,Vaf,manosv,1234,19,manosva@email.com,Male,
+Maria,Xaxa,marxa,123,45,xaxamaria@email.com,Female,
+Eleni,Giou,elen,123,23,elen@email.com,Female,
+Anna,Vlaxou,an,123,20,vlax@email.com,Female,
+Kostantina,Zir,zir,123,30,zir@email.com,Female,
+Kostas,Gav,kost,123,60,gav@email.com,Male,
+Stefanos,Xaxa,stef,123,40,stef@email.com,Male,
